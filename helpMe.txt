@@ -1,0 +1,1 @@
+.\venvDiplom\Scripts\activate - активация виртуального окружения
